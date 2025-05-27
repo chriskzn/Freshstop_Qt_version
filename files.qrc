@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/freshstop_files">
+        <file>CaltexFreshStopLogo-480x236.jpg</file>
+    </qresource>
+</RCC>
